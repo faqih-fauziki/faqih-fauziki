@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋  
+
+Perkenalkan nama saya **Faqih Fauziki**  
+Saya seorang mahasiswa di **Universitas Dian Nuswantoro**  
+Sertifikat  
+* Python Data Structures coursera.org/verify/WS3PLGKDW4WC  
+* Programming for Everybody (Getting Started with Python) coursera.org/verify/JYFL566SF75Y  
 
 <!--
 **faqih-fauziki/faqih-fauziki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
